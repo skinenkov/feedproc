@@ -63,6 +63,7 @@ parser.run()
 session.add_all(entries)
 session.commit()
 
+# Data from https://www.reddit.com/r/news/.rss is saved into posts table.
 ```
 
 
